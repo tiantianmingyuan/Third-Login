@@ -1,0 +1,24 @@
+# Eclipse project files
+.classpath
+.factorypath
+.project
+.settings/
+.externalToolBuilders/
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+
+# Intellij project files
+*.iml
+*.iws
+.idea/
+
+# Others
+target/
+logs/
+test-output/
+.DS_Store
+ReverseIPData/
+source/src/main/resources/.h2.server.properties
+*.bak
